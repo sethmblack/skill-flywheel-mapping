@@ -4,7 +4,7 @@ description: Map an organization's momentum-building cycle (flywheel) or diagnos
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4019
+  version: 1.0.4020
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - flywheel-mapping
